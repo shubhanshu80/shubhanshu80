@@ -69,24 +69,42 @@
 
 ## 📂 My Latest Projects
 
-### 1️⃣ *DeepFake Video Detection*  
-🎯 A model that helps users to find that whether a video is real of fake.
-
-- *Tech Stack:* Python, SQL, GANs, CNNs, LSTMs, TensorFlow and PyTorch
-
+### 1️⃣ *MIT-Scratch Clone*  
+🔗 Drag and Drop your favourite functions to the lists
+🔗 Move functions between lists
+🔗If you want to remove any function from Mid Area just drag and drop outside list
+🔗 You can create as many sprints as you want
+🔗 Move the sprint around Preview Area using Mouse
+🔗 Choose Sprint for which you want to execute you GUI Program
+🔗 Create as many as you like program lists
+🔗 Create long programs
+- *Tech Stack:* ReactJS, TailwindCSS, Notistack, Redux, Material UI
+- *Live Demo:* [ShrinkURLs](https://mit-scratchproject.netlify.app/)
 ---
 
-### 2️⃣ *Smart Assistant For Research Summarization*  
+### 2️⃣ *Gen-AI Assistant for Research Summarization*  
 🔗 An AI that helps users to summarizes their long researches in less than 150 words and also offers them to ask their doubts from the research papers.
+🔗• Built an AI-powered summarization assistant leveraging Google Gemini Pro + Streamlit to automate extraction and
+NLP-driven summarization of academic PDFs/TXT files, reducing manual effort by 90%.
+🔗• Develop a Challenge Mode that formulates 3 subjective questions and evaluates user input through contextual LLM
+scoring.
+🔗• Deployed the system on Streamlit Cloud using a stateless API backend, cutting local setup time to zero and resolving
+100% of dependency issues across platforms.
+- *Tech Stack:* Python, Streamlit, Google Gemini Pro, API Integration, Natural Language Processing (NLP), Document
+Management.
+- *Live Demo:* [ShrinkURLs](https://shubhanshu80-smart-assistant-for-genai-assistant-mainapp-w7znct.streamlit.app/)
 
-- *Tech Stack:* Python, Streamlit, Gemini API, HTML, CSS  
-- *Live Demo:* [ShrinkURLs](https://github.com/Kanhaiya1161/Smart-Assistant-for-Research-Summarization)
 
-
-### *Disease Prediction Based On Symptoms Using ML*
-🔗 A model that helps users to predict their disease based on their symptoms by using the 5 ML Algorithms.
-- *Tech Stack:* Python, SQL, HTML, CSS  
-- *Live Demo:* [ShrinkURLs](https://github.com/Kanhaiya1161/Disease-Prediction-Based-On-Symptoms)
+### *Human Disease Prediction Based On Symptoms*
+🔗 • Developed a predictive ML-based healthcare tool capable of diagnosing over 40 diseases using 130+ symptoms, achieving
+up to 85% accuracy.
+🔗 • Evaluated performance across four classification models and selected the most reliable predictor, improving diagnostic
+trustworthiness.
+🔗 • Designed and deployed a responsive, user-centric web UI using Streamlit, improving accessibility and patient interaction
+by 40%.
+- *Tech Stack:* Python, Streamlit, Pandas, Scikit-learn, ML Algo(Decision Tree, Random Forest, K-NN, Na¨ıve Bayes),
+Matplotlib, SQLite
+- *Live Demo:* [ShrinkURLs](https://human-disease-prediction-system.streamlit.app/)
 
 
  ## 💻 &nbsp;My Coding Profiles
