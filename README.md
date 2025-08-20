@@ -93,7 +93,7 @@ scoring.
 - *Tech Stack:* Python, Streamlit, Google Gemini Pro, API Integration, Natural Language Processing (NLP), Document
 Management.
 - *Live Demo:* [ShrinkURLs](https://shubhanshu80-smart-assistant-for-genai-assistant-mainapp-w7znct.streamlit.app/)
-
+---
 
 ### *Human Disease Prediction Based On Symptoms*
 🔗 • Developed a predictive ML-based healthcare tool capable of diagnosing over 40 diseases using 130+ symptoms, achieving
@@ -105,7 +105,7 @@ by 40%.
 - *Tech Stack:* Python, Streamlit, Pandas, Scikit-learn, ML Algo(Decision Tree, Random Forest, K-NN, Na¨ıve Bayes),
 Matplotlib, SQLite
 - *Live Demo:* [ShrinkURLs](https://human-disease-prediction-system.streamlit.app/)
-
+---
 
  ## 💻 &nbsp;My Coding Profiles
 
