@@ -93,9 +93,8 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/Kanhaiya_Singh_12/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Kanhaiya1161" /></a>
-<a href="https://www.geeksforgeeks.org/user/kanhaiyasinghbharadwaj12/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Kanhaiya1161"/></a>
-<a href="https://www.hackerrank.com/profile/kanhaiyabharadw1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Kanhaiya1161"/></a>
+<a href="https://leetcode.com/u/Shubhanshu80/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shubhanshu80" /></a>
+<a href="https://www.geeksforgeeks.org/user/shubhanshu80/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shubhanshu80"/></a>
 
 </p>
 
