@@ -93,7 +93,7 @@ Management.
 - *Live Demo:* [ShrinkURLs](https://shubhanshu80-smart-assistant-for-genai-assistant-mainapp-w7znct.streamlit.app/)
 ---
 
-### *Human Disease Prediction Based On Symptoms*
+### 3⃣*Human Disease Prediction Based On Symptoms*
 🔗 • Developed a predictive ML-based healthcare tool capable of diagnosing over 40 diseases using 130+ symptoms, achieving
 up to 85% accuracy.
 🔗 • Evaluated performance across four classification models and selected the most reliable predictor, improving diagnostic
