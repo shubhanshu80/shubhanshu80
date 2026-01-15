@@ -104,7 +104,7 @@ by 40%.
 Matplotlib, SQLite
 - *Live Demo:* [ShrinkURLs](https://human-disease-prediction-system.streamlit.app/)
 ---
-
+<!--
  ## 💻 &nbsp;My Coding Profiles
 
 <p align="left">
@@ -113,7 +113,7 @@ Matplotlib, SQLite
 <a href="https://www.geeksforgeeks.org/user/shubhanshu80/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="shubhanshu80"/></a>
 
 </p>
-
+-->
 ## 🛠 My Tech Stack
 ### 👨‍💻 Programming and Markup Languages
 
