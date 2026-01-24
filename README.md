@@ -9,7 +9,7 @@
 
 ## 👨‍💻  &nbsp;About Me 
 - I'm *AIML Enthusiast and Full Stack Web Developer*
-- *1500+ Followers*
+- *1500+ Followers on Linkedin*
 - Feel free to contact me : *shubhanshusingh8081@gmail.com*
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me
